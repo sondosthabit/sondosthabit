@@ -68,8 +68,7 @@ A cybersecurity platform designed to assess authorized websites and web applicat
 
 ## Education
 
-**Bachelor's Degree in Cybersecurity**  
-University of Bisha
+**Bachelor's Degree in Cybersecurity**
 
 **GPA:** 4.75 / 5.00  
 **Grade:** Excellent  
