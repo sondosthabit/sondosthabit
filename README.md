@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sondos Thabit Alqhatani
+# Sondos Thabit
 
 <a href="https://readme-typing-svg.herokuapp.com/demo/">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=FF0000&center=true&vCenter=true&width=750&lines=Cybersecurity+Graduate;Cyber+Threat+Analysis;Network+%26+System+Security;Vulnerability+Assessment;Security+Monitoring;Digital+Forensics;Practical+Cybersecurity+Solutions" alt="Typing SVG" />
